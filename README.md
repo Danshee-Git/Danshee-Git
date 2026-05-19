@@ -62,7 +62,5 @@ open source, privacy-first tech, software that respects their users
 
 ## 🌱 Misc
 Pet monitor app - someday maybe?
-
-
-
+<br><br><br>
 -Animo invicto, sub caelo tuto, ad divina tendo.-
