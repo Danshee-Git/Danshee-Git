@@ -1,4 +1,4 @@
-## Hey there 🐱
+# Hey there! 🐱
 
 ```typescript
 const DANSHEE = {
@@ -6,6 +6,24 @@ const DANSHEE = {
   focus  : ["fullstack", "3D", "gamedev"],
   status : "building things 🔧",
 };
+
+readonly education = {
+    degree      : "Software Engineering",
+    period      : "2016 – 2018",
+    certs       : [
+      "C# Certification — Microsoft",
+      "Microsoft Office Specialist (PowerPoint, Word, Excel)",
+      "The Complete Full-Stack Web Development Bootcamp — Udemy",
+    ],
+
+readonly interests = [
+    "cloud-native architectures",
+    "distributed systems",
+    "technical leadership",
+    "open source",
+    "3D & gamedev",
+  ];
+
 ```
 
 ## 🧰 Tech Stack
@@ -51,16 +69,48 @@ const DANSHEE = {
 <br>
 
 ## ⚡ I'm working on...
+<br>
 
-**Marga**       - enterprise desktop tooling suite for helpdesk workflows<br>
-**Home admin**  - personal household finance tracker, because spreadsheets suck<br>
-**WIP Story**   - to be announced<br>
-
+```typescript
+readonly projects: Project[] = [
+    {
+      name    : "MARGA — Managed Automated Request Guidance Application",
+      role    : "Architect & Tech Lead",
+      stack   : ["Tauri v2", "React", "TypeScript", "PocketBase", "Vite", "React Flow", "AES-256-GCM"],
+      summary : "Enterprise tooling suite for call centers. Pathfinder module (agent-facing with embedded WebView) + Flowmaster (workflow editor with React Flow canvas for supervisors). PocketBase + Caddy backend. 18-month roadmap across 4 development phases.",
+    },
+    {
+      name    : "Home Admin — Personal Finance Tracker",
+      role    : "Full Developer",
+      stack   : ["Tauri v2", "React", "TypeScript", "SQLite"],
+      summary : "Desktop app for MXN/USD financial tracking with bi-weekly organization. Local-first architecture, zero cloud dependencies.",
+    },
+    {
+      name    : "Freelance Landing Page",
+      role    : "Frontend & Backend Developer",
+      stack   : ["HTML5", "CSS3", "JavaScript"],
+      summary : "Full landing page for a local business featuring service showcase, portfolio section, and functional contact form.",
+    },
+  ];
+```
+<br>
 
 ## 💡 I'm all about:
 open source, privacy-first tech, software that respects their users
 
+##  📖 Languages:
+
+```typescript
+readonly languages = {
+    spoken : ["Spanish (native)", "English (fluent)", "Japanese (B1)"]
+  };
+```
+<br>
+
 ## 🌱 Misc
 Pet monitor app - someday maybe?
 <br><br><br>
+
+<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
+
 -Animo invicto, sub caelo tuto, ad divina tendo.-
