@@ -1,16 +1,26 @@
-## Hi there 👋
+## Gretings 🐱
 
-<!--
-**Danshee-Git/Danshee-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 What I work with:
+```
+Frontend    -> React, Typescript, Tauri
+Backend     -> Node.js, Express, PocketBase, SQLite
+Creative    -> Blender, ZBrush, Godot
+OS          -> Manjaro
+```
 
-Here are some ideas to get you started:
+## ⚡ I'm working on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Marga**       - enterprise desktop tooling suite for helpdesk workflows
+**Home admin**  - personal household finance tracker, because preadsheets suck
+**WIP Story**   - to be announced
+
+
+## I'm all about:
+open source, privacy-first tech, software that respects their users
+
+## 🌱 Misc
+thinking about maybe an app for pets maybe?
+
+
+
+-Animo invicto, sub caelo tuto, ad divina tendo.-
