@@ -111,8 +111,7 @@ readonly languages = {
 Pet monitor app - someday maybe?
 <br><br><br>
 
-<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" /> <img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
-
+<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" /> 
 
 
 -Animo invicto, sub caelo tuto, ad divina tendo.-
